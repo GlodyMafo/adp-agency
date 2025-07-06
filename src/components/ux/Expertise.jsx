@@ -29,13 +29,6 @@ export function Expertise2 (){
 
             <img src="src/assets/bg adp.png" alt="" className="rounded-[20px]" />
 
-                {/* <div className="">
-                    <div className="bg-[orange] p-4 rounded-full">
-                        <img src="src/assets/react.svg" alt="" className="w-10" />
-                    </div>
-
-
-                </div> */}
 
                 <p className="text-lg py-2 px-6">Look for works that reflect a unique character and differentiate in a crowded marketplace.</p>
 

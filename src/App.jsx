@@ -1,14 +1,16 @@
 import './App.css'
-import Nav from './components/nav'
+import Home from './components/Home'
+import Navbar from './components/Nav'
 import Expertise1, { Expertise2 } from './components/ux/Expertise'
 
 function App() {
 
   return (
     <>
-<Nav/>
+{/* <Navbar/>
 <Expertise1/>
-<Expertise2/>
+<Expertise2/> */}
+<Home/>
     </>
   )
 }
